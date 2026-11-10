@@ -1,0 +1,8 @@
+{
+  "_comment": "Them cau hinh XPath theo hostname sau khi kiem tra HTML thuc te. Khong co cau hinh thi dung heuristic chung.",
+  "_example.hust.edu.vn": {
+    "title_xpath": "//h1",
+    "content_xpath": "//*[@id='article-content']",
+    "date_xpath": "//time/@datetime"
+  }
+}
